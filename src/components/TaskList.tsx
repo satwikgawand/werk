@@ -30,6 +30,7 @@ type Props = {
 
 export function TaskList({ tasks, onComplete, onDelete }: Props) {
   const [tick, setTick] = useState(0)
+  const [showCompleted, setShowCompleted] = useState(false)
 
   useEffect(() => {
     const id = setInterval(() => setTick(t => t + 1), 60_000)
@@ -64,7 +65,22 @@ export function TaskList({ tasks, onComplete, onDelete }: Props) {
       {completed.length > 0 && (
         <>
           {incomplete.length > 0 && <div className="border-t border-gray-100 my-2" />}
-          {completed.map(task => (
+          <button
+            onClick={() => setShowCompleted(v => !v)}
+            className="flex items-center gap-2 text-xs text-gray-400 hover:text-gray-600 transition-colors py-1 select-none w-full text-left"
+          >
+            <svg
+              className={`w-3 h-3 transition-transform ${showCompleted ? 'rotate-90' : ''}`}
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              strokeWidth={2.5}
+            >
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+            </svg>
+            <span>{completed.length} completed</span>
+          </button>
+          {showCompleted && completed.map(task => (
             <TaskCard
               key={task.id}
               task={task}
