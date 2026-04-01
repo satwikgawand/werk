@@ -1,0 +1,77 @@
+{
+  "normal_chill": [
+    ["oh. you did one.", "i mean, it was easy. but still.", "fine. good job. go outside."],
+    ["task complete.", "i'll note this in the records.", "the records are vibes. but still noted."],
+    ["done. just like that.", "wild.", "okay see you for the next one."]
+  ],
+  "normal_building": [
+    ["oh. you actually did it.", "i didn't think you would. no one did.", "...anyway. it's done. go touch grass or something."],
+    ["look at you.", "taking care of business eventually.", "that's... actually something. well done."],
+    ["huh.", "okay. it happened.", "i'll believe it when i see the next one. but for now — nice."]
+  ],
+  "normal_spiralling": [
+    ["you came back.", "genuinely did not expect that.", "okay. it's done. we move on. we don't discuss the timeline."],
+    ["there it is.", "took a while but we got here.", "the task has been released from its suffering. as have we."],
+    ["so you DO do things sometimes.", "noted.", "anyway. well done. go rest. you've earned it apparently."]
+  ],
+  "normal_cooked": [
+    ["...oh.", "it's done.", "the bar was at 87% but sure, now you do it. okay."],
+    ["finally.", "the task has been waiting. we've all been waiting.", "it's fine. it's over. don't look at how long it's been."],
+    ["there was a moment where i thought this task would outlive us all.", "but here we are.", "you did it. wild. genuinely wild."]
+  ],
+  "normal_terminal": [
+    ["finally.", "do you know what it's been like watching that anxiety bar?", "it's fine. it's done. we don't need to talk about it."],
+    ["it reached 100%.", "it literally reached 100% and then you showed up.", "...okay. it's done. i won't say anything else."],
+    ["the task has been waiting so long it started keeping a diary.", "page one: 'they added me with such confidence.'", "page forty: 'they came back. i can die now.'"]
+  ],
+  "urgent_chill": [
+    ["okay urgent task handled.", "fast work.", "that was almost impressive. almost."],
+    ["urgent and done.", "the system works when you actually use it.", "keep this energy."],
+    ["oh good, you got to it before it became a crisis.", "that's called adulting.", "don't let it go to your head."]
+  ],
+  "urgent_building": [
+    ["urgent task. done.", "you waited a bit but you got there.", "the world did not end. this time."],
+    ["alright. it's handled.", "next time maybe before the anxiety meter climbs.", "just a thought."],
+    ["done.", "it was urgent. you got to it eventually.", "we'll call that a win, loosely."]
+  ],
+  "urgent_spiralling": [
+    ["this was urgent.", "it said urgent. right there on the card.", "anyway. it's done. and somehow nothing exploded. lucky."],
+    ["the word urgent was literally in the title.", "and yet here we are, just now.", "done though. so that's something."],
+    ["bold of you to let an urgent task spiral.", "bolder still to actually finish it.", "chaotic but complete. respect."]
+  ],
+  "urgent_cooked": [
+    ["this was marked urgent.", "i just want to make sure we both remember that.", "it's done now. but we should talk about time management. we won't. but we should."],
+    ["okay. urgent task. 89% anxiety. completed.", "the sequence of events here is not ideal.", "but outcome: good. we focus on outcomes."],
+    ["you know what urgent means, right?", "just checking.", "done though. so. growth, maybe."]
+  ],
+  "urgent_terminal": [
+    ["FINALLY.", "this was URGENT.", "it's done. it's finally done. the task has been released. i need a moment."],
+    ["okay i'm not going to say anything.", "i'm just going to note that this was marked urgent.", "and it is now complete. that is all i will say."],
+    ["the anxiety bar hit 100% on an urgent task.", "that is a special kind of achievement.", "it's done now. we never speak of this."]
+  ],
+  "whenever_chill": [
+    ["oh you did the whenever task.", "unexpected.", "kind of impressive actually. you had zero urgency and you still did it."],
+    ["the whenever task has been completed.", "this day is full of surprises.", "good for you honestly."],
+    ["you didn't have to do this one. you did it anyway.", "character.", "solid."]
+  ],
+  "whenever_building": [
+    ["whenever task. done.", "technically you waited but that's what whenever means.", "you played by the rules. well done."],
+    ["a whenever task, completed.", "in a whenever timeframe.", "poetic."],
+    ["took a bit but the stakes were low so honestly fine.", "done.", "✓"]
+  ],
+  "whenever_spiralling": [
+    ["okay this was a whenever task so i can't even roast the timeline.", "you did it when you did it.", "that's literally what whenever means. respect the vision."],
+    ["whenever task: complete.", "you let it age appropriately.", "like a fine task."],
+    ["eventually. as promised.", "done.", "the task has no notes. the task is at peace."]
+  ],
+  "whenever_cooked": [
+    ["a whenever task at 90% anxiety is a choice.", "but it's done so.", "you live by the 'whenever' and you complete by the 'whenever'. i respect it."],
+    ["okay it's done.", "it was a whenever task so i truly cannot judge the pace.", "...i still kind of am. but i can't."],
+    ["done.", "this task has been here longer than most plants people buy and let die.", "but unlike those plants, this one got finished."]
+  ],
+  "whenever_terminal": [
+    ["a whenever task at 100% anxiety.", "you really committed to the bit.", "done. eventually. as promised. technically."],
+    ["the task name was 'whenever'.", "and you really took that seriously.", "it's complete now. the longest whenever in history."],
+    ["the task outlasted most situationships.", "but it's done.", "whenever. as foretold."]
+  ]
+}
